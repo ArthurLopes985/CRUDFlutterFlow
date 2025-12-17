@@ -1,18 +1,17 @@
-# EducaTech
+# CrudFlutterflow
 
-O presente projeto é um aplicativo mobile para a doação de materiais escolares.
+O presente projeto é um aplicativo mobile para controle de um mercado, onde se pode criar, listar, editar e deletar produtos.
 
 ## 📌 Sobre
 Projeto desenvolvido no contexto acadêmico, como parte da avaliação da disciplina Desenvolvimento de Aplicativos, com o objetivo de aplicar na prática os conceitos estudados. Foi desenvolvido no FlutterFlow, com banco de dados Firebase.
-Nesse aplicativo o usuário se cadastra e faz login através do Firebase Auth, depois disso ele escolhe se vai realizar doações ou pedi-las, na primeira opção ele pode cadastrar produtos, ver os seus, editar. Já na segunda ele pode ver o catalogo, pedir doação de um produto que se interessar e estiver disponível e ver o seu histórico de doações. Em ambas opções o usuário pode editar seus dados.
+É um aplicativo simples, com apenas uma tela e 2 componentes, onde na tela principal é uma lista de produtos disponiveis nesse mercado, com opção de filtragem. em cada produto tem botões de editar e deletar, onde editar leva para um componente de edição e deletar aparece uma mensagem de confirmação. Na parte inferior, tem um botão de +, que leva a outro componente de cadastro.
 
 ## 🛠 Tecnologias
 - FlutterFlow
 - Firebase
-- Repositório de imagens Imgbb
 
 ## 🚀 Como rodar / instalar
-Para instalar, o usuário pode fazer o download do APK disponivel em RELEASES, e instalar em seu celular Android ou emulador Android via PC, não disponivel em celulares IOS.
+Para instalar, o usuário pode fazer o download do ZIP do projeto, descompactar, e abrir o projeto no VSCode em máquina que já tenha Flutter evidamente instalado. APK não disponivel.
 
 ## 👨‍💻 Autores
 Arthur Lopes de Oliveira                                                                                                                                                                    
@@ -23,7 +22,5 @@ Bruno da Silva Negy
 GitHub: https://github.com/BrunoNegy  
 LinkedIn: https://linkedin.com/in/bruno-da-silva-negy-8884132a6
 
-## 📄 Licença
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 ## 📄 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
