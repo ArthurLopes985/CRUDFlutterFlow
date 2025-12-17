@@ -11,7 +11,7 @@ Projeto desenvolvido no contexto acadêmico, como parte da avaliação da discip
 - Firebase
 
 ## 🚀 Como rodar / instalar
-Para instalar, o usuário pode fazer o download do ZIP do projeto, descompactar, e abrir o projeto no VSCode em máquina que já tenha Flutter evidamente instalado. APK não disponivel.
+Para instalar, o usuário pode fazer o download do ZIP do projeto, descompactar, e abrir o projeto no VSCode em máquina que já tenha Flutter devidamente instalado. APK não disponivel.
 
 ## 👨‍💻 Autores
 Arthur Lopes de Oliveira                                                                                                                                                                    
